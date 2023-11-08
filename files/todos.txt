@@ -1,0 +1,7 @@
+prepare
+arrange
+make list
+show list
+verify
+process
+plan
