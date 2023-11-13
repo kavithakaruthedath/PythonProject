@@ -1,7 +1,6 @@
 prepare
 arrange
 make list
-show list
-verify
+prepare list
 process
-plan
+add things
