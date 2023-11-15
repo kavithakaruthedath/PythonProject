@@ -1,6 +1,6 @@
 prepare
-arrange
-make list
+Make cube
 prepare list
 process
 add things
+place things back
